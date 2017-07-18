@@ -19,7 +19,7 @@
 export default {
   data:function () {
     return {
-      title:"文章列表1",
+      title:"文章列表",
       articles:[
         // {"title":"开发者所需要知道的 iOS 11 SDK 新特性","content":"content1"},
         // {"title":"再看关于 Storyboard 的一些争论","content":"content2"}
